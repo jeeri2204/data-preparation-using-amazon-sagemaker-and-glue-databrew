@@ -10,10 +10,3 @@ With SageMaker Processing, you can use a simplified, managed experience on SageM
 AWS Glue DataBrew is a new visual data preparation tool that makes it easy for data analysts and data scientists to clean and normalize data to prepare it for analytics and machine learning.
 Amazon SageMaker Feature Store is a fully managed, purpose-built repository to store, update, retrieve, and share machine learning (ML) features. Finally we use the processed dataset and Feature Store to training and deploying an XGBoost model as a sample
 
-### Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-### License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
